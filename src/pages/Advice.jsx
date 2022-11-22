@@ -1,7 +1,7 @@
 const Advice = () => {
   return (
     <div>
-
+      
     </div>
   );
 }
