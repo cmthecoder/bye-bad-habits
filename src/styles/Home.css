@@ -21,6 +21,7 @@ body {
   background-repeat: no-repeat;
   -webkit-transition: background-size 0.5s cubic-bezier(0.67, 0.01. 0.15, 098);
   transition: background-size 0.5s cubic-bezier(0.67, 0.01. 0.15, 098);
+  
 }
 
 .box {
