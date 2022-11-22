@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
 body {
   background-color: #000;
   display: grid;
   place-items: center;
   height: center;
   text-align: center;
-  /* font-family: oswald; */
+  font-family: 'Alfa Slab One', cursive;
 }
 
 .wrapper span {
@@ -23,4 +25,10 @@ body {
 
 .box {
   background-image: linear-gradient(135deg, white 0%, white 50%, transparent 50.1%);
+  -webkit-background-size: 0 100%;
+  text-transform: uppercase;
+}
+
+.content:hover .box {
+  -webkit-background-size: 220% 100%; background-size: 220% 100%;
 }
