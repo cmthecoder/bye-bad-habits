@@ -1,6 +1,7 @@
 .nav-bar {
-  color: white;
+  background-color: white;
   border-bottom: white solid 2px;
+  padding-top: .01%;
 }
 
 .nav-items {
