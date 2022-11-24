@@ -2,9 +2,9 @@ import "../styles/Advice.css"
 
 const Advice = () => {
   return (
-    <div>
+    <section>
 
-    </div>
+    </section>
   );
 }
 

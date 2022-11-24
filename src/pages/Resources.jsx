@@ -2,9 +2,9 @@ import '../styles/Resources.css'
 
 const Resources = () => {
   return (
-    <div>
+    <section>
       
-    </div>
+    </section>
   );
 }
 
