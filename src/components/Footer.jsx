@@ -1,7 +1,9 @@
+import "../styles/Footer.css"
+
 const Footer = () => {
   return (
-    <div>
-      Footer
+    <div className="copyright">
+      Created by Christopher Mems. © 2020
     </div>
   );
 }
